@@ -4,20 +4,13 @@
 ## Executive summary
 ## Background
 
-Our business question is "What factors contribute to the success of a marketing campaing?".  
-Additionally, our client have hired us to analyze the company's data and answer the following questions:
-
-What does the Average customer look like for our company?
-What Products and Channels of Revenue are best performing?
-Which Marketing Campaigns were most successful?
-What factors contribute to the success of our current campaign?
+GoGreen is a company in the solar industry.  It has hired us as consultants to help them understand which factors contribute to the success of future marketing campaigns.  Currently the company is trying to reduce marketing efforts that result in zero return on investment (ROI).
+We are also tasked to answer the following questions: What does the Average customer look like for our company? What Products and Channels of Revenue are best performing? Which Marketing Campaigns were most successful? 
 
 ## Overview of Approach
 
+We will answer these questions through data visualization, statistical analysis, and several machine learning models leveraging Python.
 
-Answer the questions by performing exploratory data analysis (EDA), data visualization, and machine learning models
-
-We'll attempt to answer these questions through Visualization as well as complex machine learning models, like Decision Trees, K-Nearest Neighbor Algorithms, and Support Vector Machines to see if we can find contributing factors to the success of our past campaigns.
 
 ## Analysis
 ## Conclusions
